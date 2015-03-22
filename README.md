@@ -15,5 +15,4 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ### Dependencies
-run_analysis.R depends on following packages - **data.table**, **reshape**
-run_analysis.R requires **Human Activity Recognition Using Smartphones Data Set** placed in _.\UCI HAR Dataset_ folder
+run_analysis.R depends on following packages - **data.table**, **reshape** and requires **Human Activity Recognition Using Smartphones Data Set** placed in _.\UCI HAR Dataset_ folder
